@@ -1,8 +1,6 @@
 # AI Voice Chat
 
-Browser voice chat with AI powered by Web Speech API & OpenRouter.ai.
-
----
+## A browser-based voice chat application powered by Web Speech API and OpenRouter.ai — talk naturally and get responses spoken back to you!
 
 ## Features
 
@@ -11,8 +9,6 @@ Browser voice chat with AI powered by Web Speech API & OpenRouter.ai.
 - Simple UI.
 
 ---
-
-## Getting Started
 
 ### Prerequisites
 
